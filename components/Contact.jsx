@@ -38,18 +38,6 @@ export default function Contact() {
 
               <div className="contact-item">
                 <div className="contact-icon">
-                  <FaGithub />
-                </div>
-                <div>
-                  <h4>GitHub</h4>
-                  <a href="https://github.com/prashannapudasaini" target="_blank" rel="noopener noreferrer">
-                    github.com/prashannapudasaini
-                  </a>
-                </div>
-              </div>
-
-              <div className="contact-item">
-                <div className="contact-icon">
                   <FaMapMarkerAlt />
                 </div>
                 <div>
